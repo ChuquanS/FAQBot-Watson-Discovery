@@ -13,8 +13,8 @@ $(document).ready(function () {
 	    //queryAsked = $("#queryAsked"),
 	    loading = $("#loading"),
 
-	    pub_key = 'pub-c-c504d6fa-d3fe-48ad-b716-24f94c33d987',
-	    sub_key = 'sub-c-fbde73de-6512-11e6-ac7d-02ee2ddab7fe';
+	    pub_key = 'pub-c-7ba8a91c-7b1d-4a76-91ce-f59088b471a2',
+	    sub_key = 'sub-c-adebf71e-458a-11e8-9e3f-0693e4e720a3';
 
 
 // Init pubnub with keys
